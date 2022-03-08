@@ -1,0 +1,14 @@
+C:\Users\nargi\Desktop\methods\metodparams\metodparams\obj\Debug\netcoreapp3.1\metodparams.csproj.AssemblyReference.cache
+C:\Users\nargi\Desktop\methods\metodparams\metodparams\obj\Debug\netcoreapp3.1\metodparams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nargi\Desktop\methods\metodparams\metodparams\obj\Debug\netcoreapp3.1\metodparams.AssemblyInfoInputs.cache
+C:\Users\nargi\Desktop\methods\metodparams\metodparams\obj\Debug\netcoreapp3.1\metodparams.AssemblyInfo.cs
+C:\Users\nargi\Desktop\methods\metodparams\metodparams\obj\Debug\netcoreapp3.1\metodparams.csproj.CoreCompileInputs.cache
+C:\Users\nargi\Desktop\methods\metodparams\metodparams\bin\Debug\netcoreapp3.1\metodparams.exe
+C:\Users\nargi\Desktop\methods\metodparams\metodparams\bin\Debug\netcoreapp3.1\metodparams.deps.json
+C:\Users\nargi\Desktop\methods\metodparams\metodparams\bin\Debug\netcoreapp3.1\metodparams.runtimeconfig.json
+C:\Users\nargi\Desktop\methods\metodparams\metodparams\bin\Debug\netcoreapp3.1\metodparams.runtimeconfig.dev.json
+C:\Users\nargi\Desktop\methods\metodparams\metodparams\bin\Debug\netcoreapp3.1\metodparams.dll
+C:\Users\nargi\Desktop\methods\metodparams\metodparams\bin\Debug\netcoreapp3.1\metodparams.pdb
+C:\Users\nargi\Desktop\methods\metodparams\metodparams\obj\Debug\netcoreapp3.1\metodparams.dll
+C:\Users\nargi\Desktop\methods\metodparams\metodparams\obj\Debug\netcoreapp3.1\metodparams.pdb
+C:\Users\nargi\Desktop\methods\metodparams\metodparams\obj\Debug\netcoreapp3.1\metodparams.genruntimeconfig.cache
